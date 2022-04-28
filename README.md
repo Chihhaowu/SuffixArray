@@ -1,5 +1,5 @@
 # SuffixArray
-Implementation of a naive and accelerated algorithm to query a suffix array in c++. Link to assignment specifications: https://rob-p.github.io/CMSC858D_S22/assignments/02_suffix_arrays
+Implementation of a naive and accelerated algorithm to query a suffix array written in C++. Link to assignment specifications: https://rob-p.github.io/CMSC858D_S22/assignments/02_suffix_arrays
 
 buildSA.cpp : constructing the suffix array and an auxiliary index
 
